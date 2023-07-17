@@ -1,0 +1,56 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega8"</DEVICE>
+ <WORKING_DIR>C:\Users\anna\Desktop\prova programma\prova programma\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m8def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\anna\Desktop\prova programma\prova programma\Debug/prova programma.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>prova programma.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>prova programma.map</FILE>
+  <FILE>prova programma.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>48</LINE></RESET>
+  <TIM0_OVF><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>375</LINE></TIM0_OVF>
+  <start_loop><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>105</LINE></start_loop>
+  <verifica_conversione_terminata><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>123</LINE></verifica_conversione_terminata>
+  <main_loop><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>138</LINE></main_loop>
+  <seconda_richiesta><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>213</LINE></seconda_richiesta>
+  <conversione><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>150</LINE></conversione>
+  <controllo_acquisizione_finita><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>156</LINE></controllo_acquisizione_finita>
+  <visualizzazione><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>200</LINE></visualizzazione>
+  <attesa_ritardo><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>195</LINE></attesa_ritardo>
+  <table><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>403</LINE></table>
+  <conteggio_display><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>256</LINE></conteggio_display>
+  <next02><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>253</LINE></next02>
+  <verifica_conversione_terminata1><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>228</LINE></verifica_conversione_terminata1>
+  <spegne_led><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>243</LINE></spegne_led>
+  <next01><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>250</LINE></next01>
+  <verifica_esistenza_centinaia><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>260</LINE></verifica_esistenza_centinaia>
+  <verifica_esistenza_decine><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>296</LINE></verifica_esistenza_decine>
+  <conteggio_centinaia><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>264</LINE></conteggio_centinaia>
+  <uscita_centinaia><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>270</LINE></uscita_centinaia>
+  <ritardo_per_visualizzazione_corretta_centinaia><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>287</LINE></ritardo_per_visualizzazione_corretta_centinaia>
+  <verifica_esistenza_unita><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>331</LINE></verifica_esistenza_unita>
+  <conteggio_decine><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>301</LINE></conteggio_decine>
+  <uscita_decine><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>307</LINE></uscita_decine>
+  <ritardo_per_visualizzazione_corretta_decine><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>321</LINE></ritardo_per_visualizzazione_corretta_decine>
+  <uscita_unita><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>341</LINE></uscita_unita>
+  <conteggio_unita><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>335</LINE></conteggio_unita>
+  <ritardo_per_visualizzazione_corretta_unita><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>356</LINE></ritardo_per_visualizzazione_corretta_unita>
+  <temporizzazione_ritardo><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>397</LINE></temporizzazione_ritardo>
+  <temporizzazione_standard><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>390</LINE></temporizzazione_standard>
+  <ripresa_stack><FILE>C:\Users\anna\Desktop\prova programma\prova programma\prova programma.asm</FILE><LINE>384</LINE></ripresa_stack>
+ </LABELS>
+</ASSEMBLER_INFO>
